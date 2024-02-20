@@ -1,0 +1,6 @@
+#ignore the config
+config
+#ignore settings.json
+settings.json
+#ignore any file with .log extension
+*.log
